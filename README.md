@@ -1,1 +1,11 @@
-# platzi-master-ml-exercises
+<h2> About this repository: </h2>
+
+Here you can find some of the challenges for [Platzi Master](https://platzi.com/blog/que-es-platzi-master/) -- an education acceleration program to form the future tech leaders in LATAM.
+
+The main areas concerning these challenges are:
+
+- Applied Statistics
+- Data Science and Data Engineering
+- Machine Learning and Artificial Intelligence
+
+<h2> Brief description: </h2>
