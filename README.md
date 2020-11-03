@@ -10,13 +10,13 @@ The main areas concerning these challenges are:
 
 <h2> Brief description: </h2>
 
-**1. Mall Clients Data **
+**1. Mall Clients Data**
 
-**2. Boston Housing Analysis **
+**2. Boston Housing Analysis**
 
-**3. Uber Pickups Data **
+**3. Uber Pickups Data**
 
-**4. Amazon Product Recommendation System **
+**4. Amazon Product Recommendation System**
 
-**5. Breast Histopathology **
+**5. Breast Histopathology**
 
