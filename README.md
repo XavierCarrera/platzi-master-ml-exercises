@@ -9,3 +9,14 @@ The main areas concerning these challenges are:
 - Machine Learning and Artificial Intelligence
 
 <h2> Brief description: </h2>
+
+**1. Mall Clients Data **
+
+**2. Boston Housing Analysis **
+
+**3. Uber Pickups Data **
+
+**4. Amazon Product Recommendation System **
+
+**5. Breast Histopathology **
+
