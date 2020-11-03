@@ -18,5 +18,5 @@ The main areas concerning these challenges are:
 
 **4. Amazon Product Recommendation System**
 
-**5. Breast Histopathology**
+**5. Breast Histopathology Data Analysis**
 
