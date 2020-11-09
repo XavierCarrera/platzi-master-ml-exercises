@@ -12,6 +12,8 @@ The main areas concerning these challenges are:
 
 **1. Mall Clients Data**
 
+A mall customer dataset contains the details about the people who visit the mall. The dataset has age, customer ID, gender, annual income, and expense score. The objective is to gain an insight into data and divide customers into different groups based on their behavior.
+
 **2. Boston Housing Analysis**
 
 **3. Uber Pickups Data**
