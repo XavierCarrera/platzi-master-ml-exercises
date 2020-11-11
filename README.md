@@ -17,6 +17,8 @@ A mall customer dataset contains the details about the people who visit the mall
 
 **2. Boston Housing Analysis**
 
+We predicted house prices for a new house using linear regression. Linear regression is used to predict unknown input values when the data have some linear relationship between the input and output variables.
+
 **3. Uber Pickups Data Visualization**
 
 **4. Amazon Product Recommendation System**
