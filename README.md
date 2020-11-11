@@ -16,7 +16,7 @@ A mall customer dataset contains the details about the people who visit the mall
 
 **2. Boston Housing Analysis**
 
-**3. Uber Pickups Data**
+**3. Uber Pickups Data Visualization**
 
 **4. Amazon Product Recommendation System**
 
