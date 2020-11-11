@@ -4,6 +4,7 @@ Here you can find some of the challenges for [Platzi Master](https://platzi.com/
 
 The main areas concerning these challenges are:
 
+- Business Analytics
 - Applied Statistics
 - Data Science and Data Engineering
 - Machine Learning and Artificial Intelligence
