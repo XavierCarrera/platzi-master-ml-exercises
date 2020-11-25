@@ -25,7 +25,7 @@ The dataset has information on 4.5 million Uber pickups in New York City from Ap
 
 **4. Amazon Product Recommendation System**
 
-This is a portal to a collection of rich data sets that were used in laboratory research projects at UCSD. It contains various datasets from popular websites like Goodreads book reviews, Amazon product reviews, bartender data, social media data, etc. that are used to create a recommendation system. The goal is to create a product recommendation system like Amazon's. A recommendation system can suggest your products, movies, etc. based on your interests and the things you like and have used before.
+We take over 500k book reviews from Amazon to build a recommendation algorithm. In this sense, we combine several strategies such as Natural Language Processing and several machine learning algorithms. 
 
 **5. Breast Histopathology Data Analysis**
 
