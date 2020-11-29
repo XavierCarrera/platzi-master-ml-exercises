@@ -25,7 +25,7 @@ The dataset has information on 4.5 million Uber pickups in New York City from Ap
 
 **4. Amazon Product Recommendation System**
 
-We take over 500k book reviews from Amazon to build a recommendation algorithm. In this sense, we combine several strategies such as Natural Language Processing and several machine learning algorithms. 
+We take over 500k instruments reviews from Amazon to build a recommendation algorithm. In this sense, we use the Surprise library to build an algorithm based on KNN and collaborative filtering. 
 
 **5. Breast Histopathology Data Analysis**
 
